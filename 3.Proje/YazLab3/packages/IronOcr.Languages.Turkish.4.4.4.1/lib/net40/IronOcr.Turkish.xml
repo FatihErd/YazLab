@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IronOcr.Turkish</name>
+    </assembly>
+    <members>
+        <member name="T:IronOcr.Languages.Turkish">
+            <summary>
+              Turkish (	Türkisch ) Language Pack for IronOcr.  
+              <para> Requires IronOcr to be of value http://ironsoftware.com/csharp/ocr/ </para>
+              <example><code>IronOcr.Language = IronOcr.Languages.Turkish.OcrLanguagePack</code></example>
+            </summary>
+        </member>
+        <member name="P:IronOcr.Languages.Turkish.LanguageCode">
+            <exclude />
+        </member>
+        <member name="M:IronOcr.Languages.Turkish.Deploy(System.String)">
+            <exclude />
+        </member>
+        <member name="M:IronOcr.Languages.Turkish.ToString">
+            <exclude />
+        </member>
+        <member name="P:IronOcr.Languages.Turkish.OcrLanguagePack">
+            Turkish (Türkisch) (tur/tr) Language pack for IronOcr 
+        </member>
+    </members>
+</doc>

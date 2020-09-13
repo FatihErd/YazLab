@@ -1,0 +1,31 @@
+﻿.btn-color {
+    background-color: cadetblue;
+}
+
+.link-type {
+    color: cadetblue;
+    font-size: large;
+}
+
+.giris-box {
+    width: 25%;
+    border: 1px solid cadetblue;
+}
+
+@media screen and (max-width: 992px) {
+    .giris-box {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .giris-box {
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .giris-box {
+        width: 100%;
+    }
+}

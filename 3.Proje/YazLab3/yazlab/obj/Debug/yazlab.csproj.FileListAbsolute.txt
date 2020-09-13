@@ -1,0 +1,132 @@
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\yazlab.dll.config
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\yazlab.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\yazlab.pdb
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\csc.exe
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\csc.exe.config
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\csc.rsp
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\csi.exe
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\csi.exe.config
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\csi.rsp
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.AppContext.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Console.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.IO.Compression.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Security.Claims.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.ValueTuple.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\vbc.exe
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\vbc.exe.config
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\vbc.rsp
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\VBCSCompiler.exe
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\obj\Debug\yazlab.csprojAssemblyReference.cache
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\obj\Debug\yazlab.csproj.CoreCompileInputs.cache
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\obj\Debug\yazlab.csproj.CopyComplete
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\obj\Debug\yazlab.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\obj\Debug\yazlab.pdb
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\MySql.Data.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\Google.Protobuf.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\BouncyCastle.Crypto.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\Ubiety.Dns.Core.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\Renci.SshNet.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\MySql.Data.xml
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\IronOcr.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\IronOcr.Turkish.dll
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\IronOcr.xml
+C:\Users\TOHIBA\source\repos\yazlab\yazlab\bin\IronOcr.Turkish.xml
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\yazlab.dll.config
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\yazlab.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\yazlab.pdb
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\csc.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\csc.exe.config
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\csc.rsp
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\csi.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\csi.exe.config
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\csi.rsp
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.AppContext.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Console.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.IO.Compression.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Security.Claims.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.ValueTuple.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\vbc.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\vbc.exe.config
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\vbc.rsp
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\VBCSCompiler.exe
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\IronOcr.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\IronOcr.Turkish.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\MySql.Data.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\Google.Protobuf.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\BouncyCastle.Crypto.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\Ubiety.Dns.Core.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\Renci.SshNet.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\IronOcr.xml
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\IronOcr.Turkish.xml
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\MySql.Data.xml
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\obj\Debug\yazlab.csprojAssemblyReference.cache
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\obj\Debug\yazlab.csproj.CoreCompileInputs.cache
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\obj\Debug\yazlab.csproj.CopyComplete
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\obj\Debug\yazlab.dll
+C:\Users\TOHIBA\Desktop\Yeni klasör (2)\yazlab\yazlab\obj\Debug\yazlab.pdb
